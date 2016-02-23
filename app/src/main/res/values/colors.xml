@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="cyan_600">#00ACC1</color>
+    <color name="title_color">#f0f5f5</color>
+
+
+
+
+
 </resources>
